@@ -1,0 +1,17 @@
+:root {
+    --ac: #f28123;
+    --abs: #364b55;
+    --br: 10px;
+}
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1300px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 20px;
+}
